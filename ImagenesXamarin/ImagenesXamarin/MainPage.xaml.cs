@@ -100,6 +100,9 @@ namespace ImagenesXamarin
             //otra forma de setear contenido es con la propiedad content
             //Content = grid;
 
+
+
+
         }
     }
 }
